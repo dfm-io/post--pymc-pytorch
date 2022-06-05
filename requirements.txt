@@ -4,10 +4,6 @@
 #
 #    pip-compile
 #
-appnope==0.1.3
-    # via
-    #   ipykernel
-    #   ipython
 arviz==0.12.1
     # via pymc3
 asttokens==2.0.5
@@ -101,9 +97,7 @@ nest-asyncio==1.5.5
     #   jupyter-client
     #   nbclient
 netcdf4==1.5.8
-    # via
-    #   -r requirements.in
-    #   arviz
+    # via arviz
 numpy==1.21.6
     # via
     #   -r requirements.in
@@ -182,6 +176,7 @@ semver==2.13.0
     # via pymc3
 six==1.16.0
     # via
+    #   asttokens
     #   bleach
     #   patsy
     #   python-dateutil
