@@ -1,8 +1,8 @@
 _commit: b4cbdea
 _src_path: gh:dfm-io/template
-year: 2019
-month: 10
 day: 15
-title: "PyMC3 + PyTorch"
-slug: "pymc-pytorch"
-python_version: "3.9"
+month: 10
+python_version: '3.9'
+slug: pymc-pytorch
+title: PyMC3 + PyTorch
+year: 2019
