@@ -93,7 +93,6 @@ nbformat==5.4.0
     #   nbconvert
 nest-asyncio==1.5.5
     # via
-    #   arviz
     #   ipykernel
     #   jupyter-client
     #   nbclient
