@@ -1,0 +1,7 @@
+numpy<1.22
+scipy
+matplotlib
+ipykernel
+nbconvert
+pymc3
+torch
